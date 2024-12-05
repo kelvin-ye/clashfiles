@@ -1,0 +1,5 @@
+# Unbreak 白名单 不应该被广告链接的网站
+
+# 香港政府
+DOMAIN-SUFFIX,gov.hk
+
